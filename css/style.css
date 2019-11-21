@@ -41,7 +41,7 @@
  }
  
  .content {
-     width: 70%;
+     width: 40%;
      float: left;
  }
  
@@ -50,13 +50,35 @@
      min-height: 500px;
  }
  
- .sidebar {
-     width: 30%;
-     padding-left: 10px;
+ .sidebar-1 {
+     width: 20%;
      float: left;
+     padding-left: 10px;
  }
  
- .inner-sidebar {
+ .inner-sidebar-1 {
+     background: #3d3c66;
+     min-height: 500px;
+ }
+ 
+ .sidebar-2 {
+     width: 20%;
+     float: left;
+     padding-left: 10px;
+ }
+ 
+ .inner-sidebar-2 {
+     background: #3d3c66;
+     min-height: 500px;
+ }
+ 
+ .sidebar-3 {
+     width: 20%;
+     float: left;
+     padding-left: 10px;
+ }
+ 
+ .inner-sidebar-3 {
      background: #3d3c66;
      min-height: 500px;
  }
